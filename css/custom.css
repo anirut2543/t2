@@ -60,7 +60,7 @@
 
    .popup{
     background-attachment: fixed;
-    width: 100wh;
+    width: 100vw;
     background: #fff;
     border-radius: 40px;
     border: 2px solid #000;
